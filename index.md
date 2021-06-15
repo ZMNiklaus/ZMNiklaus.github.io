@@ -11,15 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 简历
+### 联系方式
 
-1. Numbered
-2. List
+- 电话：18524339881                邮箱：zdc1902171676@163.com
+
+### 个人信息
+- 姓名：张大成  性别：男  出生年月：1995.05
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
