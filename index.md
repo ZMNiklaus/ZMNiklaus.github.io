@@ -18,8 +18,6 @@
 
 <h1>技能清单</h1>
 
-以下均为我熟练使用的技能：
-
 - 计算机语言：Matlab\Python\Fortran\C
 - 数值模拟：Comsol\Matlab\Deform\Fluent\ICEM\Ansys Workbench\Procast等
 - CAD绘图：Solidworks\AutoCAD
