@@ -1,76 +1,52 @@
 <h1>应届生求职模板</h1>
 
-<div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
-</div>
+[PHOTO295413](https://user-images.githubusercontent.com/62428819/122167499-a3573e80-cead-11eb-937d-72a13df8ca71.jpg)
 
-**基本信息：** x某某 / gender / age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 山东青岛
+**基本信息：** 张大成 / 男 / 1995.05&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 辽宁沈阳
 
-**手&ensp;机&ensp;号：** 178 xxxx xxxx&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** congsw@foxmail.com
+**手&ensp;机&ensp;号：** 185 2433 9881&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**邮&emsp;&emsp;箱：** zdc1902171676@163.com
 
-**证&emsp;&emsp;书：** 英语四/六级、计算机二级&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** x年
-
-**GitHub：** https://github.com/congshengwu 
-
-**CSDN：** &ensp;https://blog.csdn.net/c1024197824
-
-<h1>求职意向</h1>
-
-**期望职位：** 安卓开发工程师&emsp;&emsp;&emsp;&emsp;**期望薪资：** 0k-1000k
+**证&emsp;&emsp;书：** 英语四级、计算机二级&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**实习经验：** 4年
 
 <h1>教育背景</h1>
 
-xxxx大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.09-2019.06&emsp;&emsp;&emsp;&emsp;&emsp;电子信息工程
-
+辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2014.09-2018.07&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(本科)<br/>
+辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-2021.03&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(硕士)<br/>
+沈阳工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(博士)
 <h1>实习经历</h1>
 
-**公司：** xxxxxx信息科技有限公司&emsp;&emsp;**职位：** 安卓开发工程师&emsp;&emsp;**时间：** 2018.03-2019.03
-<br/>
-**项目名称：** xxxxxxxxxx
-<br/>
-**项目简介：** xxxxxxxxxx
-<br/>
-**主要工作：**
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - xxxxxxxxxxxx。
- - 技术栈：
-   - 基于谷歌AAC框架实现MVVM应用架构
-   - 网络请求：Retrofit+OkHttp+RxJava
-   - Json解析：谷歌Gson
-   - XML/Html解析：Jsoup
-   - 图片加载：Glide
-   - UI及数据加载相关：DataBinding、Paging、自定义View
-
-<h1>个人作品</h1>
-
-**名称：** xxxx&emsp;&emsp;
-<br/>
-**简介：** xxxxxxxxxxxxxxxxxxxx。
-
-**名称：** yyyy 
-<br/>
-**简介：** yyyyyyyyyyyyyyyyyyyy。
-
-**名称：** zzzz
-<br/>
-**简介：** zzzzzzzzzzzzzzzzzzzz。
+**公司：** 宁波坤博测控科技有限公司&emsp;&emsp;**职位：** 噪声与振动控制研究员&emsp;&emsp;**时间：** 2021.05-至今
 
 <h1>技能清单</h1>
 
 以下均为我熟练使用的技能：
 
-- 编程语言：Java、C
-- 安卓开发：熟悉安卓UI设计、布局、自定义控件开发，安卓数据存储SharedPreferences、文件等，微博、微信等第三方SDK集成，处理ANR、OOM等
-- 安卓框架：Gson、FastJson、谷歌AAC、EventBus、Glide、Retrofit、RxJava、OkHttp、Jsoup等
-- 其他：正则表达式、Git、SVN等
+- 计算机语言：Matlab\Python\Fortran\C
+- 数值模拟：Comsol\Matlab\Deform\Fluent\ICEM\Ansys Workbench\Procast等
+- CAD绘图：Solidworks\AutoCAD
 
-以下是我接触并了解的技能：
+<h1>荣誉奖励</h1> 
 
-&emsp;&emsp;&emsp;Kotlin（学习中）、Linux简单命令、Java Servlet、Mysql、Html、爬虫等等
+**研究生：** <br/>
+- 研究生一等新生入学奖学金<br/>
+- 辽宁科技大学研究生数值模拟大赛第二名 <br/>
+- 2018-2019 学年优秀研究生干部<br/>
+- 研究生活动积极分子  <br/>
+**本&emsp;科：** <br/>
+- 2016-2017 学年学生会干部标兵<br/>
+- 辽宁省普通高校机械设计创新大赛二等奖  <br/>
+- 第七届全国大学生机械设计大赛二等奖
+- 校优秀学生干部  <br/>
+- 2014-2015 学年社会工作骨干奖<br/>
+- 2018 届本科优秀毕业设计（论文）<br/>
+
+<h1>任职情况</h1>  
+
+2014.10-2018.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程班&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;班长<br/>
+2015.06-2016.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程与自动化学院第十届学生会&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;办公室副主任 <br/>
+2016.06-2017.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程与自动化学院第十一届学生会&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;副主席兼办公室主任
 
 <h1>自我评价</h1>
 
-&emsp;&emsp;我是一个热爱技术热爱编程的人，大学四年自学编程，做过很多小项目（贪吃蛇、计算器、简单的数据库读取录入系统等等），上架了3款个人开发的安卓小应用，各应用市场累计60多万的下载量，开源了几个小项目并得到了一些star，参与过两个商业安卓应用的开发，其中在开发“猫博”App过程中积累了我安卓开发的大部分经验和学习方法，真是受益匪浅。
-<br/>
-&emsp;&emsp;我希望在以后的工作中，深度上能学习掌握更多关于安卓开发的高级知识及数据结构算法；广度上能扩宽自己的技术栈，如前端、后端、混合开发以及其他比较新潮有趣的技术等；高度上希望经过未来几年的职业生涯发展，能成为软件架构师级的技术专家。
+&emsp;&emsp;通过本科期间担任班长的经历，我深刻了解具有责任心得重要意义；在多次参加社会活动、校园活动中明白了团结协作的必要性；在学生会担任职务使我意识到沟通交流是解决问
+题的有效途径。研究生期间参与的科研项目，让我提升了发现问题、解决问题的能力。 故天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能。
