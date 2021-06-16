@@ -1,39 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ZMNiklaus/ZMNiklaus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repoitory, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 
 ## 简历
-### 联系方式
-
-- 电话：18524339881                邮箱：zdc1902171676@163.com
-
 ### 个人信息
-- 姓名：张大成  性别：男  出生年月：1995.05
+姓名：张大成                                                                     性别：男                                                        出生年月：1995.05                        
+计算机：国家二级                                                        专业：机械工程                                                        籍贯：辽宁省建平县                                                          
+
+### 联系方式
+- 电话：18524339881                                                         邮箱：zdc1902171676@163.com
+- 微信：
 
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZMNiklaus/ZMNiklaus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
