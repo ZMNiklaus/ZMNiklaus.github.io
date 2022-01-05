@@ -9,11 +9,12 @@
 
 辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2014.09-2018.07&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(本科)<br/>
 辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-2021.03&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(硕士)<br/>
-沈阳工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(博士)
+沈阳工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(博士)
   
 <h3>实习经历</h3>
 
 **公司：** 宁波坤博测控科技有限公司&emsp;&emsp;**职位：** 噪声与振动控制研究员&emsp;&emsp;**时间：** 2021.05至今<br/>
+
 另外多次到鞍钢第二炼钢厂、型材厂等多个厂区短期实习
 
 <h3>技能清单</h3>
@@ -43,11 +44,11 @@
 <h3>科研成果</h3>  
 
 [1]	**Zhang D C**, Li C, Gao X, et al. Numerical simulation and experimental research on friction stir welding of 2024-T3 aeronautical aluminum alloy [J]. Journal of Adhesion Science and Technology, 2021, (6): 1-19.<br/>
-[2]	Han X, **Zhang D C**, Li C, et al. Study on a multifield coupling mechanism and a numerical simulation method of a pulsed laser deposition process from a disk laser [J]. Appl Phys A-Mater Sci Process, 2021, 127(1): 19.<br/>
-[3]	Gao J X, Li C, **Zhang D C**, et al. Study on the Transformation Mechanism of Twinning Martensite and the Growth Behavior of Variants Based on Phase-Field Method [J]. Steel Res Int, 2020, 91(10): 10.<br/>
-[4]	Gao X, Li C, **Zhang D C**, et al. Numerical analysis of the activated combustion high-velocity air-fuel (AC-HVAF) thermal spray process: A survey on the parameters of operation and nozzle geometry [J]. Surf Coat Technol, 2021, 405: 13.<br/>
-[5]	Han X, Li C, **Zhang D C**, et al. Numerical simulation and experiment of quenching process of 35CrMnSi by disk laser [J]. J Laser Appl, 2021, 33(2): 13.<br/>
-[6]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. J Therm Spray Technol, 2021, 30(3): 725-738.<br/>
+[2]	Han X, **Zhang D C**, Li C, et al. Study on a multifield coupling mechanism and a numerical simulation method of a pulsed laser deposition process from a disk laser [J]. Applied Physics A-Materials Science & Processing, 2021, 127(1): 19.<br/>
+[3]	Gao J X, Li C, **Zhang D C**, et al. Study on the Transformation Mechanism of Twinning Martensite and the Growth Behavior of Variants Based on Phase-Field Method [J]. Steel Research International, 2020, 91(10): 10.<br/>
+[4]	Gao X, Li C, **Zhang D C**, et al. Numerical analysis of the activated combustion high-velocity air-fuel (AC-HVAF) thermal spray process: A survey on the parameters of operation and nozzle geometry [J]. Surface & Coatings Technology, 2021, 405: 13.<br/>
+[5]	Han X, Li C, **Zhang D C**, et al. Numerical simulation and experiment of quenching process of 35CrMnSi by disk laser [J]. Journal of Laser Applications, 2021, 33(2): 13.<br/>
+[6]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. Journal of Thermal Spray Technology, 2021, 30(3): 725-738.<br/>
 [7] Li C, **Zhang D C**, Gao X, et al.Numerical simulation method of the multi-field coupling mechanism for laser cladding 316L powder [J].Welding in the World, 2021.<br/>
 [8]
 [9]
