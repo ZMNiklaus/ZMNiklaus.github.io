@@ -48,9 +48,12 @@
 [4]	Gao X, Li C, **Zhang D C**, et al. Numerical analysis of the activated combustion high-velocity air-fuel (AC-HVAF) thermal spray process: A survey on the parameters of operation and nozzle geometry [J]. Surf Coat Technol, 2021, 405: 13.<br/>
 [5]	Han X, Li C, **Zhang D C**, et al. Numerical simulation and experiment of quenching process of 35CrMnSi by disk laser [J]. J Laser Appl, 2021, 33(2): 13.<br/>
 [6]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. J Therm Spray Technol, 2021, 30(3): 725-738.<br/>
-[7]	黄庆春, 李昌, **张大成**, et al. 考虑相变诱导塑性的埋弧堆焊过程数值模拟方法研究 [J]. 表面技术, 2021, 50(03): 261-9.<br/>
-[8]	李昌, 高敬翔, **张大成**, et al. 基于PFM-FEM的多变体马氏体转变过程模拟及模型参数灵敏度分析 [J]. 材料导报, 2019, 33(20): 3477-3488.<br/>
-[9]	李昌, **张大成**, 陈正威, et al. 激光淬火技术优势及研究现状 [J]. 辽宁科技大学学报, 2020, 43(02): 97-103.<br/>
+[7] Li C, **Zhang D C**, Gao X, et al.Numerical simulation method of the multi-field coupling mechanism for laser cladding 316L powder [J].Welding in the World, 2021.<br/>
+[8]
+[9]
+[10]	黄庆春, 李昌, **张大成**, et al. 考虑相变诱导塑性的埋弧堆焊过程数值模拟方法研究 [J]. 表面技术, 2021, 50(03): 261-9.<br/>
+[11]	李昌, 高敬翔, **张大成**, et al. 基于PFM-FEM的多变体马氏体转变过程模拟及模型参数灵敏度分析 [J]. 材料导报, 2019, 33(20): 3477-3488.<br/>
+[12]	李昌, **张大成**, 陈正威, et al. 激光淬火技术优势及研究现状 [J]. 辽宁科技大学学报, 2020, 43(02): 97-103.<br/>
 
 <h3>任职情况</h3>  
 
