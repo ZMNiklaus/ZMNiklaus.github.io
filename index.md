@@ -7,9 +7,9 @@
 
 <h3>教育背景</h3>
 
--辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2014.09-2018.07&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(本科)<br/>
--辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-2021.03&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(硕士)<br/>
--沈阳工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(博士)
+- 辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2014.09-2018.07&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(本科)<br/>
+- 辽宁科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-2021.03&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(硕士)<br/>
+- 沈阳工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;机械工程(博士)
   
 <h3>实习经历</h3>
 
