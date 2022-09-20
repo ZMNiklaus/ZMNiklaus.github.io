@@ -14,13 +14,13 @@
 <h3>实习经历</h3>
 
 **公司：** 宁波坤博测控科技有限公司&emsp;&emsp;**职位：** 噪声与振动控制研究员&emsp;&emsp;**时间：** 2021.05至今<br/>
-
+期间多次参与振动或噪声控制项目，如中石化安庆分公司厂区噪声治理等，有实际工程项目经验。设计多款声学超材料消音器，具有较高实用价值。
 另外多次到鞍钢第二炼钢厂、型材厂等多个厂区短期实习
 
 <h3>技能清单</h3>
 
 - 计算机语言：Matlab\Python\Fortran\C
-- 数值模拟：Comsol\Matlab\Deform\Fluent\ICEM\Ansys Workbench\Procast等
+- 数值模拟：Comsol\Matlab\Deform\Fluent\LMS Virtual.lab\ICEM\Ansys Workbench\Procast等
 - CAD绘图：Solidworks\AutoCAD
 
 <h3>荣誉奖励</h3> 
