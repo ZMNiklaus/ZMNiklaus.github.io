@@ -15,7 +15,7 @@
 
 **公司：** 宁波坤博测控科技有限公司&emsp;&emsp;**职位：** 噪声与振动控制研究员&emsp;&emsp;**时间：** 2021.05至今<br/>
   期间多次参与振动或噪声控制项目，如中石化安庆分公司厂区噪声治理等，有实际工程项目经验。<br/>
-  设计多款声学超材料消音器，具有较高实用价值。
+  设计多款声学超材料消音器，具有较高实用价值。<br/>
   另外多次到鞍钢第二炼钢厂、型材厂等多个厂区短期实习
 
 <h3>技能清单</h3>
@@ -46,16 +46,17 @@
 
 [1]	**Zhang D C**, Li C, Gao X, et al. Numerical simulation and experimental research on friction stir welding of 2024-T3 aeronautical aluminum alloy [J]. Journal of Adhesion Science and Technology, 2021, (6): 1-19.<br/>
 [2] Lipeng W, **Dacheng Z(通讯)**, Changzheng C, et al. Multi-physics field coupling and microstructure numerical simulation of laser cladding for engine crankshaft based on CA-FE method and experimental study. Surface and Coatings Technology 2022:128396.<br/>
-[3] Chang L, **Dacheng Z**, Xinxue C, et al. Microstructure Simulation and Experiment for the Weak Weld Joint of a Domed Storage Tank during an Explosion Based on the Cellular Automaton Method. Journal of Materials Engineering and Performance 2022.<br/>
-[4]	Han X, **Zhang D C**, Li C, et al. Study on a multifield coupling mechanism and a numerical simulation method of a pulsed laser deposition process from a disk laser [J]. Applied Physics A-Materials Science & Processing, 2021, 127(1): 19.<br/>
-[5]  Chang Li, **Da Cheng Zhang**, Yanpeng Yang, et al. Research on sputtering behavior of three beams coaxial laser cladding powder based on the interaction of lasers and powder [J]. Journal of Laser Applications, 2021.<br/>
-[6] Chang Li, Xing Han, **Dacheng Zhang**, et al.Quantitative analysis and experimental study of the influence of process parameters on the evolution of laser cladding [J]. Journal of Adhesion Science and Technology, 2021.<br/>
-[7]	Gao J X, Li C, **Zhang D C**, et al. Study on the Transformation Mechanism of Twinning Martensite and the Growth Behavior of Variants Based on Phase-Field Method [J]. Steel Research International, 2020, 91(10): 10.<br/>
-[8]	Gao X, Li C, **Zhang D C**, et al. Numerical analysis of the activated combustion high-velocity air-fuel (AC-HVAF) thermal spray process: A survey on the parameters of operation and nozzle geometry [J]. Surface & Coatings Technology, 2021, 405: 13.<br/>
-[9]	Han X, Li C, **Zhang D C**, et al. Numerical simulation and experiment of quenching process of 35CrMnSi by disk laser [J]. Journal of Laser Applications, 2021, 33(2): 13.<br/>
-[10] Li C, Gao JX, **Zhang DC**, Chen ZW, Han X. Influence of material parameters on 2D-martensitic transformation based on the phase-field finite-element method. Metallurgical Research & Technology 2019;116(6):20.<br/>
-[11]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. Journal of Thermal Spray Technology, 2021, 30(3): 725-738.<br/>
-[12] Li C, **Zhang D C**, Gao X, et al.Numerical simulation method of the multi-field coupling mechanism for laser cladding 316L powder [J].Welding in the World, 2021.<br/>
+[3] Li C, **Zhang D C**, Gao X, et al.Numerical simulation method of the multi-field coupling mechanism for laser cladding 316L powder [J].Welding in the World, 2021.<br/>
+[4] Chang L, **Dacheng Z**, Xinxue C, et al. Microstructure Simulation and Experiment for the Weak Weld Joint of a Domed Storage Tank during an Explosion Based on the Cellular Automaton Method. Journal of Materials Engineering and Performance 2022.<br/>
+[5]	Han X, **Zhang D C**, Li C, et al. Study on a multifield coupling mechanism and a numerical simulation method of a pulsed laser deposition process from a disk laser [J]. Applied Physics A-Materials Science & Processing, 2021, 127(1): 19.<br/>
+[6]  Chang Li, **Da Cheng Zhang**, Yanpeng Yang, et al. Research on sputtering behavior of three beams coaxial laser cladding powder based on the interaction of lasers and powder [J]. Journal of Laser Applications, 2021.<br/>
+[7] Chang Li, Xing Han, **Dacheng Zhang**, et al. Quantitative analysis and experimental study of the influence of process parameters on the evolution of laser cladding [J]. Journal of Adhesion Science and Technology, 2021.<br/>
+[8]	Gao J X, Li C, **Zhang D C**, et al. Study on the Transformation Mechanism of Twinning Martensite and the Growth Behavior of Variants Based on Phase-Field Method [J]. Steel Research International, 2020, 91(10): 10.<br/>
+[9]	Gao X, Li C, **Zhang D C**, et al. Numerical analysis of the activated combustion high-velocity air-fuel (AC-HVAF) thermal spray process: A survey on the parameters of operation and nozzle geometry [J]. Surface & Coatings Technology, 2021, 405: 13.<br/>
+[10]	Han X, Li C, **Zhang D C**, et al. Numerical simulation and experiment of quenching process of 35CrMnSi by disk laser [J]. Journal of Laser Applications, 2021, 33(2): 13.<br/>
+[11] Li C, Gao JX, **Zhang DC**, et al. Influence of material parameters on 2D-martensitic transformation based on the phase-field finite-element method. Metallurgical Research & Technology 2019;116(6):20.<br/>
+[12]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. Journal of Thermal Spray Technology, 2021, 30(3): 725-738.<br/>
+
 [13] 黄庆春, 李昌, **张大成**, et al. 考虑相变诱导塑性的埋弧堆焊过程数值模拟方法研究 [J]. 表面技术, 2021, 50(03): 261-9.<br/>
 [14] 李昌, 高敬翔, **张大成**, et al. 基于PFM-FEM的多变体马氏体转变过程模拟及模型参数灵敏度分析 [J]. 材料导报, 2019, 33(20): 3477-3488.<br/>
 [15] 李昌, **张大成**, 陈正威, et al. 激光淬火技术优势及研究现状 [J]. 辽宁科技大学学报, 2020, 43(02): 97-103.<br/>
