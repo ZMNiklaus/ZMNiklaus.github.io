@@ -57,10 +57,10 @@
 [11] Li C, Gao JX, **Zhang DC**, et al. Influence of material parameters on 2D-martensitic transformation based on the phase-field finite-element method. Metallurgical Research & Technology 2019;116(6):20.<br/>
 [12]	Li C, Gao X, **Zhang D C**, et al. Numerical Investigation on the Flame Characteristics and Particle Behaviors in a HVOF Spray Process Using Kerosene as Fuel [J]. Journal of Thermal Spray Technology, 2021, 30(3): 725-738.<br/>
 
-[13] 黄庆春, 李昌, **张大成**, et al. 考虑相变诱导塑性的埋弧堆焊过程数值模拟方法研究 [J]. 表面技术, 2021, 50(03): 261-9.<br/>
-[14] 李昌, 高敬翔, **张大成**, et al. 基于PFM-FEM的多变体马氏体转变过程模拟及模型参数灵敏度分析 [J]. 材料导报, 2019, 33(20): 3477-3488.<br/>
-[15] 李昌, **张大成**, 陈正威, et al. 激光淬火技术优势及研究现状 [J]. 辽宁科技大学学报, 2020, 43(02): 97-103.<br/>
-[16] **张大成**, 李昌, 许彦, et al. 光粉作用下激光熔覆粉末射流行为研究. 热加工工艺 2022;(20):1-7.<br/>
+[13] **张大成**, 李昌, 许彦, et al. 光粉作用下激光熔覆粉末射流行为研究. 热加工工艺 2022;(20):1-7.<br/>
+[14] 李昌, **张大成**, 陈正威, et al. 激光淬火技术优势及研究现状 [J]. 辽宁科技大学学报, 2020, 43(02): 97-103.<br/>
+[15] 李昌, 高敬翔, **张大成**, et al. 基于PFM-FEM的多变体马氏体转变过程模拟及模型参数灵敏度分析 [J]. 材料导报, 2019, 33(20): 3477-3488.<br/>
+[16] 黄庆春, 李昌, **张大成**, et al. 考虑相变诱导塑性的埋弧堆焊过程数值模拟方法研究 [J]. 表面技术, 2021, 50(03): 261-9.<br/>
 
 
 <h3>任职情况</h3>  
