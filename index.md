@@ -2,19 +2,20 @@
 ![12](https://user-images.githubusercontent.com/62428819/122177026-cbe43600-ceb7-11eb-820d-5790bc7d6075.jpg)
 
 **基本信息：** 张大成 / 男 / 1995.05<br/>
+**籍贯：** 辽宁朝阳 <br/>
 **手&ensp;机&ensp;号：** 185 2433 9881<br/>
-**邮&emsp;&emsp;箱：** zdc1902171676@163.com<br/>
+**邮&emsp;&emsp;箱：** zhangdacheng@smail.sut.edu.cn、zdc1902171676@163.com<br/>
 
 <h3>教育背景</h3>
 
 - 机械工程(本科)&emsp;&emsp;&emsp;&emsp;&emsp;2014.09-2018.07&emsp;&emsp;&emsp;&emsp;&emsp;辽宁科技大学<br/>
 - 机械工程(硕士)&emsp;&emsp;&emsp;&emsp;&emsp;2018.09-2021.03&emsp;&emsp;&emsp;&emsp;&emsp;辽宁科技大学<br/>
-- 机械工程(博士)&emsp;&emsp;&emsp;&emsp;&emsp;2021.09至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;沈阳工业大学<br/>
+- 机械工程(博士)&emsp;&emsp;&emsp;&emsp;&emsp;2021.09-2025.06&emsp;&emsp;&emsp;&emsp;&emsp;沈阳工业大学<br/>
   
 <h3>实习经历</h3>
 
 **公司：** 宁波坤博测控科技有限公司&emsp;&emsp;**职位：** 噪声与振动控制研究员&emsp;&emsp;**时间：** 2021.05至今<br/>
-  期间多次参与振动或噪声控制项目，如中石化安庆分公司厂区噪声治理等，有实际工程项目经验。<br/>
+  实习期间多次负责或参与振动或噪声控制项目，如沈鼓某型号大型离心分级降噪、中石化安庆分公司厂区噪声治理等，通过对声学超材料技术设计和应用，超额完成预定指标。<br/>
   设计多款声学超材料消音器，具有较高实用价值。<br/>
   另外多次到鞍钢第二炼钢厂、型材厂等多个厂区短期实习
 
@@ -23,6 +24,7 @@
 - 计算机语言：Matlab\Python\Fortran\C\VB
 - 数值模拟：Comsol\Matlab\Deform\Fluent\LMS Virtual.lab\ICEM\Ansys Workbench\Procast等
 - CAD绘图：Solidworks\AutoCAD
+- 具备科研素质和实践经验
 
 <h3>荣誉奖励</h3>
 
