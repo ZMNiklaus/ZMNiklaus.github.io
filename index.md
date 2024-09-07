@@ -1,8 +1,8 @@
 
-![12](https://user-images.githubusercontent.com/62428819/122177026-cbe43600-ceb7-11eb-820d-5790bc7d6075.jpg)
+![a](https://github.com/user-attachments/assets/a485598f-c0a6-4377-ab21-5a5b550b913a)
 
-**基本信息：** 张大成 / 男 / 1995.05<br/>
-**籍贯：** 辽宁朝阳 <br/>
+**基本信息：** 张大成 / 男 / 1995.05 <br/>
+**籍&ensp;&ensp;&ensp;&ensp;贯：** 辽宁朝阳 <br/>
 **手&ensp;机&ensp;号：** 185 2433 9881<br/>
 **邮&emsp;&emsp;箱：** zhangdacheng@smail.sut.edu.cn、zdc1902171676@163.com<br/>
 
